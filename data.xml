@@ -1,0 +1,103 @@
+<?xmlversion "1.0" encoding="utf-8"?>
+<root>
+    <string>
+        <id>ID рейса:01</id>
+        <title>Направление: МОСКВА - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 14 июня, 21:30; Sukhoi SuperJet-100, 95 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:02</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - МОСКВА</title>
+        <description>Отправление: 21 июня, 17:45; Sukhoi SuperJet-100, 95 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:03</id>
+        <title>Направление: ВИЛЬНЮС - СТАМБУЛ</title>
+        <description>Отправление: 2 июля, 19:00; Airbus A310, 183 места</description>
+    </string>
+     <string>
+        <id>ID рейса:04</id>
+        <title>Направление: СТАМБУЛ - МОСКВА</title>
+        <description>Отправление: 14 июля, 18:15; Airbus A310, 183 места</description>
+    </string>
+    <string>
+        <id>ID рейса:05</id>
+        <title>Направление: ВАРШАВА - МИНСК</title>
+        <description>Отправление: 1 июля, 12:45; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:06</id>
+        <title>Направление: МИНСК - ВАРШАВА</title>
+        <description>Отправление: 10 июля, 20:15; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:07</id>
+        <title>Направление: МАДРИД - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 5 июля, 09:15; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:08</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - МАДРИД</title>
+        <description>Отправление: 12 июля, 19:45; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:09</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - ТЕЛЬ-АВИВ</title>
+        <description>Отправление: 17 июня, 10:45; Airbus A330, 295 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:10</id>
+        <title>Направление: ТЕЛЬ-АВИВ - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 25 июня, 23:15; Airbus A330, 295 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:11</id>
+        <title>Направление: МОСКВА - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 14 июля, 22:30; Sukhoi SuperJet-100, 95 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:12</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - МОСКВА</title>
+        <description>Отправление: 20 июля, 20:45; Sukhoi SuperJet-100, 95 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:13</id>
+        <title>Направление: ВИЛЬНЮС - СТАМБУЛ</title>
+        <description>Отправление: 15 июля, 18:00; Airbus A310, 183 места</description>
+    </string>
+     <string>
+        <id>ID рейса:14</id>
+        <title>Направление: СТАМБУЛ - МОСКВА</title>
+        <description>Отправление: 24 июля, 21:15; Airbus A310, 183 места</description>
+    </string>
+    <string>
+        <id>ID рейса:15</id>
+        <title>Направление: ВАРШАВА - МИНСК</title>
+        <description>Отправление: 21 июля, 12:15; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:16</id>
+        <title>Направление: МИНСК - ВАРШАВА</title>
+        <description>Отправление: 30 июля, 20:45; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:17</id>
+        <title>Направление: МАДРИД - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 5 августа, 09:15; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:18</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - МАДРИД</title>
+        <description>Отправление: 12 августа, 19:45; Boeing-737, 114 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:19</id>
+        <title>Направление: САНКТ-ПЕТЕРБУРГ - ТЕЛЬ-АВИВ</title>
+        <description>Отправление: 7 августа, 11:45; Airbus A330, 295 мест</description>
+    </string>
+    <string>
+        <id>ID рейса:20</id>
+        <title>Направление: ТЕЛЬ-АВИВ - САНКТ-ПЕТЕРБУРГ</title>
+        <description>Отправление: 15 августа, 22:15; Airbus A330, 295 мест</description>
+    </string>
+</root>
